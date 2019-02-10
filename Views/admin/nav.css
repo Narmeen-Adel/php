@@ -1,0 +1,15 @@
+.navbar-header{
+    margin-left: 5%;
+}
+
+.navbar-right {
+    margin-right: 5%;
+    
+}
+
+.navbar-brand{
+    color: #fff;
+    font-size: 22px;
+    margin-left: 50px;
+    font-weight: bold;
+}
